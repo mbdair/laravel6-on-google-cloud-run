@@ -1,0 +1,5 @@
+git checkout -b laravel6-full-app
+git add .gitignore
+git add .
+git commit -m "Add the whole Laravel 6 app"
+git push origin laravel6-full-app
